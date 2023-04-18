@@ -28,7 +28,7 @@ public class TestScript {
 		
 		Thread.sleep(3000);
 		driver.quit();
-		System.out.println("code executed successfully");
+		System.out.println("able to perform google search successfully");
 
 	}
 
